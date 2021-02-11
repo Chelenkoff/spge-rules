@@ -1,0 +1,2 @@
+C:\Users\gchelenkov\Desktop\spge_rules\spge-rules\ct_calc\Debug\ct_calc.exe
+C:\Users\gchelenkov\Desktop\spge_rules\spge-rules\ct_calc\Debug\ct_calc.pdb
